@@ -1,3 +1,4 @@
+### 04/10/2021
 #### Instal typescript
 ```shell
 yarn add typescript -D
@@ -36,3 +37,4 @@ yarn add @types/react-dom -D
 yarn add @types/react -D
 yarn add @types/react-router-dom -D
 ```
+#### finished converting the food component from class to typescript
