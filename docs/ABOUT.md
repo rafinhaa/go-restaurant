@@ -98,4 +98,4 @@ Caso você tenha dificuldade nesse processo de migração, dê uma olhada no nos
 
 Nesse desafio você já recebe a aplicação totalmente funcional, então todos os recursos mostrados no vídeo abaixo já estão implementados no template e devem permanecer funcionado após suas alterações.
 
-![Watch the video](docs/videos/demo.gif)
+![Watch the video](videos/demo.gif)
