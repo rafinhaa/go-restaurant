@@ -8,8 +8,17 @@ import Input from '../Input';
 interface IModalEditFoodProps {
 	isOpen: boolean,
 	setIsOpen: () => void,
-	editingFood: object,
+	editingFood: IFood,
 	handleUpdateFood: (data: IDataForm) => void,
+}
+
+interface IFood {
+	id: number;
+	name: string,
+	description: string,
+	price: number,
+	image: string,
+	available: boolean,
 }
 
 interface IDataForm {
