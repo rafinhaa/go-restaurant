@@ -16,7 +16,7 @@ interface IFood {
 	id: number;
 	name: string,
 	description: string,
-	price: number,
+	price: string,
 	image: string,
 	available: boolean,
 }
