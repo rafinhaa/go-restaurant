@@ -18,8 +18,8 @@ Quarto desafio da trilha de React do Ignite da Rocketseat. Esse projeto é uma
 ## 🏁 How to run the project
 #### Clone the repository
 ```bash
-git clone https://github.com/rafinhaa/ignite-reactjs-desafio-04
-cd ignite-desafio-04
+git clone https://github.com/rafinhaa/go-restaurant
+cd go-restaurant
 ```
 
 #### Install dependencies
